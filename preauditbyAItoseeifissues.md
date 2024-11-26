@@ -1,8 +1,6 @@
-To perform an audit of your contract as a reputable auditing firm, I will highlight potential vulnerabilities, optimization suggestions, and general improvements. This audit will focus on security, performance, and compliance with Solidity best practices.
 
----
 
-### Audit Report: **STAG Token Contract**
+### AI pre Audit Report: **STAG Token Contract**
 
 #### **Key Findings**
 
