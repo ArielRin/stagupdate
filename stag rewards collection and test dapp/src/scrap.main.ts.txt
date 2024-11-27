@@ -1,6 +1,0 @@
-// https://docs.reown.com/appkit/react/core/installation?platform=ethers 6.13.4
-// vite @ latest react 6.0.0
-
-
-
-import './style.css'
