@@ -352,14 +352,6 @@ A clear and strategic roadmap guides the development and growth of StagTokenV2. 
 
 StagTokenV2 is backed by a dedicated team of professionals with extensive experience in blockchain technology, finance, marketing, and community building.
 
-| **Name**           | **Role**                     | **Experience**                                                  |
-|--------------------|------------------------------|-----------------------------------------------------------------|
-| **Alex Morgan**    | **Founder & CEO**            | 10+ years in blockchain development and cryptocurrency projects |
-| **Taylor Lee**     | **CTO**                      | Expert in smart contract development and security               |
-| **Jordan Kim**     | **Head of Marketing**        | 8 years in digital marketing and community engagement          |
-| **Casey Patel**    | **Finance Manager**          | Specialist in financial modeling and tokenomics                  |
-| **Riley Chen**     | **Community Manager**        | Experienced in building and managing online communities         |
-| **Morgan Davis**   | **Security Auditor**         | Background in cybersecurity and smart contract auditing         |
 
 *Note: The team is committed to transparency and regularly updates the community on progress and developments.*
 
