@@ -95,8 +95,8 @@ StagTokenV2 incorporates a dynamic fee structure to support various functionalit
   - **NFT Reward:** 2%
   - **Ops:** 0%
   - **Liquidity:** 2%
-  - **Dev:** 44%
-  - **Total Sell Fees:** 51%
+  - **Dev:** 3%
+  - **Total Sell Fees:** 10%
 
 - **Launch Tax:**
   - **RFI (Reflection Fee):** 0%
