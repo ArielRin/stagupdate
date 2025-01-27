@@ -1,5 +1,5 @@
 
-# StagTokenV2 Smart Contract Whitepaper
+# StagTokenV2 Smart Contract Litepaper
 
 #### 1. Executive Summary
 - **Title:** StagTokenV2 Smart Contract Whitepaper
