@@ -32,7 +32,7 @@
 - **Wallets:**
   - **Dead Wallet:** 0x000000000000000000000000000000000000dEaD
   - **NFT Reward Wallet:** 0xF8D1360B0Aa99797C8Ca315A28e47F6B2aa14d83
-  - **Ops Wallet:** 0x3f39B8d07f4568bf2A653494a3584069d0f68227
+  - **Ops Wallet:** Used for Future Implementaions
   - **Dev Wallet:** 0x7ac401C9D349241D9A5E23CBf7B6b0FF20F0CC01
 
 - **Trading Mechanics:**
